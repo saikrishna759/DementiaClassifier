@@ -1,5 +1,13 @@
 ### DementiaClassifier
 
+![image](https://github.com/user-attachments/assets/baf37335-36b2-4182-ba2b-aabee0581a85)
+
+
+Test dataset size: 101 
+Test accuracy: 94.05940771102905%
+
+
+
 ## iteration 1
 mri_dataset.py is dataloading code
 
